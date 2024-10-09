@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arshad0566
+- 👋 Hi, I’m Mohd Arshad
 - 👀 I’m interested in web devloping
 - 🌱 I’m currently learning at NIET, Greater Noida
 - 💞️ I’m looking to collaborate on 
